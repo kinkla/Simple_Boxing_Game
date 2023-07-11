@@ -40,7 +40,7 @@ namespace Mike_Tyson_Game
 
                     if (Boxer.Bounds.IntersectsWith(Player.Bounds) && playerBlock == false)
                     {
-                        playerHealth -= 5;
+                        playerHealth -= 20;
                     }
 
                     break;
@@ -69,11 +69,11 @@ namespace Mike_Tyson_Game
 
             if(Boxer.Left > 430)
             {
-                enemySpeed = -5;
+                enemySpeed = -17;
             }
             if (Boxer.Left < 220)
             {
-                enemySpeed = 5;
+                enemySpeed = 17;
             }
 
             // Check for the end of game scenario

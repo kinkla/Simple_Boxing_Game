@@ -1,0 +1,18 @@
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\bin\Release\net6.0-windows\Mike Tyson Game.exe
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\bin\Release\net6.0-windows\Mike Tyson Game.deps.json
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\bin\Release\net6.0-windows\Mike Tyson Game.runtimeconfig.json
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\bin\Release\net6.0-windows\Mike Tyson Game.dll
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\bin\Release\net6.0-windows\Mike Tyson Game.pdb
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\obj\Release\net6.0-windows\Mike Tyson Game.csproj.AssemblyReference.cache
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\obj\Release\net6.0-windows\Mike_Tyson_Game.Form1.resources
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\obj\Release\net6.0-windows\Mike_Tyson_Game.Properties.Resources.resources
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\obj\Release\net6.0-windows\Mike Tyson Game.csproj.GenerateResource.cache
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\obj\Release\net6.0-windows\Mike Tyson Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\obj\Release\net6.0-windows\Mike Tyson Game.AssemblyInfoInputs.cache
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\obj\Release\net6.0-windows\Mike Tyson Game.AssemblyInfo.cs
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\obj\Release\net6.0-windows\Mike Tyson Game.csproj.CoreCompileInputs.cache
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\obj\Release\net6.0-windows\Mike Tyson Game.dll
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\obj\Release\net6.0-windows\refint\Mike Tyson Game.dll
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\obj\Release\net6.0-windows\Mike Tyson Game.pdb
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\obj\Release\net6.0-windows\Mike Tyson Game.genruntimeconfig.cache
+D:\Mike_Tyson_Game\Mike Tyson Game\Mike Tyson Game\obj\Release\net6.0-windows\ref\Mike Tyson Game.dll

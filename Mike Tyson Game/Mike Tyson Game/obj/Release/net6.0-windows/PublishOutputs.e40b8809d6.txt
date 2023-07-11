@@ -1,0 +1,5 @@
+C:\Users\qinql\OneDrive\Desktop\Vika Tyson\Mike Tyson Game.exe
+C:\Users\qinql\OneDrive\Desktop\Vika Tyson\Mike Tyson Game.dll
+C:\Users\qinql\OneDrive\Desktop\Vika Tyson\Mike Tyson Game.deps.json
+C:\Users\qinql\OneDrive\Desktop\Vika Tyson\Mike Tyson Game.runtimeconfig.json
+C:\Users\qinql\OneDrive\Desktop\Vika Tyson\Mike Tyson Game.pdb
